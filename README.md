@@ -6,7 +6,7 @@ An end-to-end football analytics dashboard built using Palantir Foundry, SQL, an
 [Watch the Dashboard Demo](https://youtu.be/GHwQzAdxrZw?si=0k8LRePr33s6q8Yk)
 
 ## Overview
-Built a full analytics pipeline and interactive dashboard to visualize football player and team performance metrics. The project covers the full data lifecycle — from raw ingestion to cleaned, structured data powering a live dashboard.
+Built a full analytics pipeline and interactive dashboard to visualize football player and team performance metrics. The project covers the full data lifecycle, from raw ingestion to cleaned, structured data powering a live dashboard.
 
 ## What I Built
 - **Data Pipelines** — Designed and built pipelines in Palantir Foundry to ingest and process raw football performance data
